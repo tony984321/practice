@@ -1,0 +1,60 @@
+.container {
+  width: 400px;
+  height: 200px;
+  overflow: hidden;
+}
+
+.general {
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.purple {
+  width: 400px;
+  height: 400px;
+  background: purple;
+}
+
+.indigo {
+  width: 380px;
+  height: 380px;
+  background: indigo;
+}
+
+.blue {
+  width: 360px;
+  height: 360px;
+  background: blue;
+}
+
+.green {
+  width: 340px;
+  height: 340px;
+  background: green;
+}
+
+.yellow {
+  width: 320px;
+  height: 320px;
+  background: yellow;
+}
+
+.orange {
+  width: 300px;
+  height: 300px;
+  background: orange;
+}
+
+.red {
+  width: 280px;
+  height: 280px;
+  background: red;
+}
+
+.white {
+  width: 260px;
+  height: 260px;
+  background: #fff;
+}
